@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.sql": "jinja-sql",
+        "*.yml": "jinja-yaml",
+        "time.h": "c"
+    }
+}
