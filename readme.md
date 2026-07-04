@@ -20,12 +20,6 @@ O projeto está organizado em pastas temáticas, cada uma abordando um tópico f
 - **Struct, union**: Exemplos de uso de struct e union.
 - **Tipos Compostos**: Exemplos de enum, struct e union.
 
-## Sobre mim
-
-Meu nome é Luiza Vieira, sou Engenheira de Dados Pleno, produtora de conteúdo e brinco de dar aula. Este material foi reunido para facilitar o aprendizado e servir como apoio durante os estudos. Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato!
-
-Bons estudos e sucesso na disciplina!
-
 ---
 
 **Observação:** Este repositório é de uso livre para fins acadêmicos. Recomendo que resolva os exercícios antes de consultar as soluções para potencializar seu aprendizado.
