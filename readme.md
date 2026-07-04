@@ -1,6 +1,6 @@
 # Projeto de Apoio à Disciplina de PIF
 
-Este repositório foi criado para auxiliar estudantes da disciplina de PIF da Cesar School. Aqui você encontrará uma coletânea de exercícios, exemplos e materiais organizados por temas, todos desenvolvidos e reunidos durante minha experiência como aluna e monitora voluntária da discplina.
+Olá, pessoal! Meu nome é Luiza Vieira, sou Engenheira de Dados e Professora na Jornada de Dados. Voluntariamente, atuo como “monitora” de PIF. Esse material serve como guia didático para vocês conseguirem acompanhar os conteúdos ao longo do semestre.
 
 ## Estrutura do Projeto
 
